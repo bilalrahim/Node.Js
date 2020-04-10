@@ -7,5 +7,4 @@
 <p>Node.js must be installed.</p>
 <p>Open Command Prompt in the cloned directory and type command <code>"node index"</code></p>
 
-<h2>Step by step Explanation </h2>
-<a href= "https://bilalrahim.github.io/node.html">Here!</a>
+<a href= "https://bilalrahim.github.io/node.html"><h3>See the step by step Explanation </h3></a>
